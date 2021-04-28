@@ -1,0 +1,30 @@
+.transactionHistory {
+    margin: 0 auto 50px;
+    width: 700px;
+    border-spacing: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-color: white;
+  }
+  
+  .tableHead {
+    color: white;
+    background-color: black;
+    text-align: center;
+  }
+  
+  .title {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 3;
+    text-transform: uppercase;
+  }
+  
+  .text {
+    height: 50px;
+  }
+
+  .item {
+    text-align: center;
+    text-transform: capitalize;
+    border-bottom: 1px solid black;
+  }
